@@ -1,0 +1,5 @@
+# This file is used by the build system to ensure only the files below are included in your build outputs.
+# The build system will default to including the entire public directory, but this file can be used to exclude files or directories.
+
+# Files to exclude from build
+robots.txt
