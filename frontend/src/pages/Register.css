@@ -1,0 +1,43 @@
+.register-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.register-card {
+  background: white;
+  border-radius: 16px;
+  padding: 40px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.register-card h2 {
+  color: #212529;
+  margin-bottom: 8px;
+  font-size: 28px;
+}
+
+.register-card p {
+  color: #6c757d;
+  margin-bottom: 32px;
+}
+
+.login-link {
+  margin-top: 24px;
+  color: #6c757d;
+}
+
+.login-link a {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.login-link a:hover {
+  text-decoration: underline;
+}
