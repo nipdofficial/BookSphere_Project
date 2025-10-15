@@ -260,12 +260,7 @@ npm test
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
 
-- **Lead Developer**: [Your Name]
-- **AI/ML Engineer**: [Team Member]
-- **Frontend Developer**: [Team Member]
-- **DevOps Engineer**: [Team Member]
 
 ## 📞 Support
 
