@@ -265,9 +265,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- Email: support@booksphere.ai
+- Email: nipunadbandara@gmail.com
 - Documentation: [docs.booksphere.ai](https://docs.booksphere.ai)
-- Issues: [GitHub Issues](https://github.com/your-username/book-sphere/issues)
+- Issues: [GitHub Issues](https://github.com/nipdofficial/book-sphere/issues)
 
 ## 🔮 Future Roadmap
 
